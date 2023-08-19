@@ -13,7 +13,7 @@ function Programs() {
         </div>
         <div className="program-categories">
             {programsData.map((program)=>(
-                <div className="category">
+                <div className="category" key={program.heading}>
                     {program.image}
                     <span>{program.heading}</span>
                     <span>{program.details}</span>

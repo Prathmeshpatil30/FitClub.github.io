@@ -23,7 +23,7 @@ const Header = () => {
         ><img src={Bars} alt="" style={{ width: '1.5rem', height: '1.5rem' }} /></div>
       ) : (
         <>
-          <i class="fa-solid fa-xmark" onClick={()=>{setMenuOpened(false)}}></i>
+          <i className="fa-solid fa-xmark" onClick={()=>{setMenuOpened(false)}}></i>
           <ul className='header-menu'>
             <li>
               <Link
