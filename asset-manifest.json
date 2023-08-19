@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FitClub.github.io/static/css/main.aa35db37.css",
-    "main.js": "/FitClub.github.io/static/js/main.3fa07260.js",
+    "main.js": "/FitClub.github.io/static/js/main.cc708a5b.js",
     "static/media/hero_image.png": "/FitClub.github.io/static/media/hero_image.e19ac0c6b1009c7280f5.png",
     "static/media/t-image1.png": "/FitClub.github.io/static/media/t-image1.c16c2c261034cf78ee57.png",
     "static/media/image1.png": "/FitClub.github.io/static/media/image1.1091417d32e491f0bbb6.png",
@@ -14,10 +14,10 @@
     "static/media/hero_image_back.png": "/FitClub.github.io/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/FitClub.github.io/index.html",
     "main.aa35db37.css.map": "/FitClub.github.io/static/css/main.aa35db37.css.map",
-    "main.3fa07260.js.map": "/FitClub.github.io/static/js/main.3fa07260.js.map"
+    "main.cc708a5b.js.map": "/FitClub.github.io/static/js/main.cc708a5b.js.map"
   },
   "entrypoints": [
     "static/css/main.aa35db37.css",
-    "static/js/main.3fa07260.js"
+    "static/js/main.cc708a5b.js"
   ]
 }
